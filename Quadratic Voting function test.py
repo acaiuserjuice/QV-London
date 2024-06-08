@@ -24,6 +24,18 @@ def quadratic_voting_interface():
     votes = [0] * len(projects)
     remaining_credits = 100
 
+# the 'master' while loop. A lot of back and forth for user interaction.
     while remaining_credits > 0:
         try:
-            voter_choice = int(input('\nEnter the project number you want to vote for (1-5): ')) - 1
+            voter_choice = int(input('\nEnter the project number you want to vote for (1-5): ')) - 1 # - 1 will confirm to our project based on its true zero index.
+            if voter_choice < 0 or voter_choice >= len(projects):
+                print("Invalid choice. Please enter a number between 1 and 5.")
+                continue
+
+            max_votes = int(remaining_credits**0.5) # indication of votes left by square root  of remaining credits: max_votes = int(36**0.5) = int(6) = 6
+            print(f"You can allocate up to {max_votes} votes to this project.")
+            num_votes = int(input(f"Enter the number of votes you want to allocate (0 to {max_votes}): "))
+
+            if num_votes < 0 or num_votes > max_votes:
+            print(f"Invalid number of votes. Please enter a number between 0 and {max_votes}.") # ensure user does not exceed if so loop back.
+            continue
