@@ -34,25 +34,39 @@ def quadratic_voting_interface():
         try:
             voter_choice = int(input('\nEnter the project number you want to vote for (1-5): ')) - 1   # - 1 will confirm to our project based on its true zero index.
             if voter_choice < 0 or voter_choice >= len(projects):
-                print("Invalid choice. Please enter a number between 1 and 5.")
+                print('Invalid choice. Please enter a number between 1 and 5.')
                 continue
 
             max_votes = int(remaining_credits**0.5) # indication of votes left by square root  of remaining credits: max_votes = int(36**0.5) = int(6) = 6
-            print(f"You can allocate up to {max_votes} votes to this project.")
-            num_votes = int(input(f"Enter the number of votes you want to allocate (0 to {max_votes}): "))
+            print(f'You can allocate up to {max_votes} votes to this project.')
+            num_votes = int(input(f'Enter the number of votes you want to allocate (0 to {max_votes}): '))
 
             if num_votes < 0 or num_votes > max_votes:
-                print(f"Invalid number of votes. Please enter a number between 0 and {max_votes}.") # ensure user does not exceed if so loop back.
+                print(f'Invalid number of votes. Please enter a number between 0 and {max_votes}.') # ensure user does not exceed if so loop back.
                 continue
 
 # crux of loop, updating quadratically with count memory.
             current_votes = votes[voter_choice]   # refer us back to our list of 5 idx, retreive.
             new_total_votes = current_votes + num_votes  # should user wish to update vote of existing idx
             additional_cost = new_total_votes ** 2 - current_votes ** 2 # inform user how many votes left, remaining redits have to be updated quadratically.
-#
+
             if additional_cost > remaining_credits:
-                print(f"Not enough credits. The cost of these votes would be {additional_cost} credits, but you only have {remaining_credits} credits remaining.")
+                print(f'Not enough credits. The cost of these votes would be {additional_cost} credits, but you only have {remaining_credits} credits remaining.')
                 continue
 
+# update vaiables for each cycle through allocation
             votes[voter_choice] = new_total_votes
+            remaining_credits -= additional_cost
+            print(f'Allocated {num_vote} votes to {projects[choice]} (Cost: {additional_cost} credits). Remaining credits: {remaining_credits}")')
+        except ValueError:
+            print("Invalid input. Please enter a number.")
 
+# print results, store in dictionary
+            results = {projects[i]: votes[i] for i in range(len(projects))}
+            print("\nVoting complete. Here are the results:")
+            for project, vote_count in results.items():
+                print(f"{project}: {vote_count} votes")
+
+            return results
+
+quadratic_voting_interface()
