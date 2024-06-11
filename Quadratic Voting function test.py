@@ -9,14 +9,14 @@ def quadratic_voting_interface():
         'Rehabilitation and Reintegration Program for Former Offenders'
     ]
 
-    print('Thank you for participating in the test run for Quadratic Voting. \nFor more information on this project please check the README.')
+    print('Thank you for participating in Quadratic Voting London. \nFor more information check the README.')
     print('You have 100 voice credits to distribute among the following projects:')
 
 # iterate through the index of our 5 projects (1-5)
     for idx, project in enumerate(projects):
         print(f'{idx + 1}. {project}')
 
-    print('\nThe cost of allocating n votes to a project is n^2 voice credits. \ni.e passing 2 votes will take 4 voice credits, 5 votes will take 25 voice credits.')
+    print('\nThe cost of allocating votes to a project is n^2 voice credits. \ni.e passing 2 votes will take 4 voice credits, 5 votes will take 25 voice credits.')
 
 # here our initial state is a list, votes = [0,0,0,0,0] which will populate as participant votes
 # the list will populate. e.g votes = [5,2,3,5,1], remaining credits factoring n^2 = 36 remaining credits
@@ -25,11 +25,11 @@ def quadratic_voting_interface():
     remaining_credits = 100
 
 # the 'master' while loop. A lot of back and forth for user interaction.
-# 1. user choses project, project must be counted and assigned
+# 1. user chooses project, project must be counted and assigned
 # 2. establish credits remaining then allow distribution of credits
 # 3. ensure number of votes do not exceed remaining credits.
 # 4. enable user to continue voting until insufficient credits
-# 5. last 'if' statement that factors the quadrtic increase in votes populating the idx
+# 5. last 'if' statement that factors the quadratic increase in votes populating the idx
     while remaining_credits > 0:
         try:
             voter_choice = int(input('\nEnter the project number you want to vote for (1-5): ')) - 1   # - 1 will confirm to our project based on its true zero index.
@@ -37,7 +37,7 @@ def quadratic_voting_interface():
                 print('Invalid choice. Please enter a number between 1 and 5.')
                 continue
 
-            max_votes = int(remaining_credits**0.5) # indication of votes left by square root  of remaining credits: max_votes = int(36**0.5) = int(6) = 6
+            max_votes = int(remaining_credits**0.5) # votes left by square root of remaining credits: max_votes = int(36**0.5) = 6.
             print(f'You can allocate up to {max_votes} votes to this project.')
             num_votes = int(input(f'Enter the number of votes you want to allocate (0 to {max_votes}): '))
 
@@ -54,12 +54,12 @@ def quadratic_voting_interface():
                 print(f'Not enough credits. The cost of these votes would be {additional_cost} credits, but you only have {remaining_credits} credits remaining.')
                 continue
 
-# update vaiables for each cycle through allocation
+# update variables for each cycle through allocation
             votes[voter_choice] = new_total_votes
             remaining_credits -= additional_cost
-            print(f'Allocated {num_vote} votes to {projects[choice]} (Cost: {additional_cost} credits). Remaining credits: {remaining_credits}")')
+            print(f'Allocated {num_votes} votes to {projects[voter_choice]} (Cost: {additional_cost} credits). Remaining credits: {remaining_credits}")')
         except ValueError:
-            print("Invalid input. Please enter a number.")
+            print('Invalid input. Please enter a number.')
 
 # print results, store in dictionary
             results = {projects[i]: votes[i] for i in range(len(projects))}
