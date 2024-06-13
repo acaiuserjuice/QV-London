@@ -6,12 +6,12 @@ Here are six hypothetical projects shortlisted for funding by the London Mayoral
 
 _(you can read in more detail about these projects on the_ [_following page_](projects-for-consideration.md)_)_
 
-1. **Youth Empowerment and Mentorship Program**                                                                    (Prevention) - Cost: £3 Million
-2. **Community Safety and Policing Reform Initiative**                                                         (Resolution) - Cost: £4 Million
-3. **Mental Health Support and Counselling Services Expansion** (Prevention) - Cost: £2.5 Million
-4. **Education and Outreach Campaign on Conflict Resolution** (Resolution) - Cost: £1.5 Million
-5. **Rehabilitation and Reintegration Program for Former Offenders** (Resolution) - Cost: £4 Million
-6. **School and Community Programs to Reduce Substance Abuse** (Prevention) - Cost: £5 Million
+1. **Youth Empowerment and Mentorship Program:** _Prevention_ - Cost: £3 Million
+2. **Community Safety and Policing Reform Initiative:** _Resolution_ - Cost: £4 Million
+3. **Mental Health Support and Counselling Services Expansion:** _Prevention_ - Cost: £2.5 Million
+4. **Education and Outreach Campaign on Conflict Resolution:** _Resolution_ - Cost: £1.5 Million
+5. **Rehabilitation and Reintegration Program for Former Offenders:** _Resolution_ - Cost: £4 Million
+6. **School and Community Programs to Reduce Substance Abuse:** _Prevention_ - Cost: £5 Million
 
 The Mayoral office has £10 million to allocate to one or more of these programs, but the total cost to fully fund all projects is £20 million. The office is unsure how to distribute the money quickly. Statistics show that knife crime and violence are rising ([_violence dashboard)_](https://data.london.gov.uk/mopac-pcp-dashboard/violence-is-prevented-and-reduced-dashboard/). Committees governed by the London Assembly investigate, gauge resource needs, and report their findings. The assembly and the mayor then attempt to reach a consensus on the best distribution of funds to help reduce crime.
 
