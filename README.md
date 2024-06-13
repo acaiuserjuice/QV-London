@@ -8,5 +8,5 @@ One poll will use the traditional one person, one vote system, and the other wil
 
 The initial aim for Quadratic London is to collect a small data set to compare the results from the two polls. Each participant will receive the results of the mock poll by the end of July, along with a data dashboard. Participants are encouraged to provide critiques along the way and suggest novel ways of presenting the results.
 
-What’s next for Quadratic London? Click [here](what-next-for-quadratic-london.md).
+What’s next for Quadratic London? Click [here](whats-next-for-quadratic-london.md).
 

@@ -8,7 +8,7 @@
   * [One person, one vote](what-is-quadratic-voting/one-person-one-vote.md)
   * [Plurality](what-is-quadratic-voting/plurality.md)
 * [Participate HERE](participate-here.md)
-* [What next for Quadratic London](what-next-for-quadratic-london.md)
+* [What's next for Quadratic London](whats-next-for-quadratic-london.md)
 * [Further readings](further-readings.md)
 * [Decentralization](decentralization/README.md)
   * [Your Data](decentralization/your-data.md)
