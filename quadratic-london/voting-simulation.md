@@ -1,6 +1,6 @@
 # Voting Simulation
 
-[_Quadratic voting_](../what-is-quadratic-voting/) is an alternative governance method that allows participants to express the strength of their preferences on a range of agendas set by a council or election board. We will discuss QV and its workings in the next section. For now let's start with role playing a voting scenario so you can follow along.
+[_Quadratic voting_](../what-is-quadratic-voting/) is an alternative governance method that allows participants to express the _**strength**_ of their preferences on a range of agendas set by a council or election board. We will discuss QV and its workings in the next section. For now let's start with role playing a voting scenario so you can follow along.
 
 Here are six hypothetical projects shortlisted for funding by the London Mayoral office.
 

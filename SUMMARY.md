@@ -7,6 +7,7 @@
   * [How Quadratic voting works](what-is-quadratic-voting/how-quadratic-voting-works.md)
   * [One person, one vote](what-is-quadratic-voting/one-person-one-vote.md)
   * [Plurality](what-is-quadratic-voting/plurality.md)
+  * [Public goods](what-is-quadratic-voting/public-goods.md)
 * [Participate HERE](participate-here.md)
 * [What's next for Quadratic London](whats-next-for-quadratic-london.md)
 * [Further readings](further-readings.md)
