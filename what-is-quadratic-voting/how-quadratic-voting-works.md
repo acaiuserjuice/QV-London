@@ -14,6 +14,8 @@ Here is the quadratic cost of using your votes. This example shows the expenditu
 
 <figure><img src="../.gitbook/assets/Figure_1.png" alt=""><figcaption><p> As you can see, allocating more votes to a single project quickly becomes very expensive.</p></figcaption></figure>
 
-The Democratic Caucus of the Colorado State House of Representatives experimented with Quadratic Voting, click [here](https://www.wired.com/story/colorado-quadratic-voting-experiment/). The [RadicalxChange](https://www.radicalxchange.org/wiki/colorado-qv/#senate-and-house-democrats-2023-qv-polls) Foundation worked with the Democratic Caucus to decide how distribute a ''limited pot of money''. Here are the results from that poll.
+
+
+In 2019 The Democratic Caucus of the Colorado State House of Representatives experimented with Quadratic Voting, click [here](https://www.wired.com/story/colorado-quadratic-voting-experiment/) for insight. The [RadicalxChange](https://www.radicalxchange.org/wiki/colorado-qv/#senate-and-house-democrats-2023-qv-polls) Foundation worked with the Democratic Caucus to decide how distribute a ''limited pot of money''. Here are the results from that poll.
 
 <figure><img src="../.gitbook/assets/colorado-qv-distribution.png" alt=""><figcaption><p><a href="https://www.radicalxchange.org/wiki/colorado-qv/#senate-and-house-democrats-2023-qv-polls">https://www.radicalxchange.org/wiki/colorado-qv/#senate-and-house-democrats-2023-qv-polls</a></p></figcaption></figure>
