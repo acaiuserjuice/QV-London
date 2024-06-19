@@ -1,7 +1,7 @@
 # Participate HERE
 
-Click [**HERE**](https://docs.google.com/forms/d/e/1FAIpQLSeFv0BTZMiOwPYOnHhWZQaprUmePTzW-C5QR-rcbJ6DuqrINA/viewform)
+**Click** [**HERE**](https://forms.gle/5x5Trqj9kCgpYf7f8) **to participate**&#x20;
 
-please ensure you use the same name in the form and when redirected to the Vercel micro app created by [zephry valley](https://github.com/carlbarrdahl). Use any name you wish if you have an [ENS](https://ens.domains/) domain even better!
+_All participants who complete both votes will be added to a prize draw. Prize details are at the bottom of the form._
 
-Results will be published [**HERE**](results.md) July 28th, 2024
+Results will be published [here](results.md) July 28th, 2024
