@@ -1,10 +1,10 @@
 ---
 cover: .gitbook/assets/Quadratic_London_Banner for google form.jpeg
-coverY: 0
+coverY: 224.81425253834522
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
