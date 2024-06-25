@@ -15,3 +15,4 @@
 * [Decentralization](decentralization.md)
 * [Your data](your-data.md)
 * [Results](results.md)
+* [Contact](contact.md)

@@ -2,6 +2,12 @@
 
 **Click** [**HERE**](https://forms.gle/joYmn3xNE1RuHBTj8) **to participate**&#x20;
 
-_All participants who complete both votes will be added to a prize draw. Prize details are at the bottom of the form._
+<figure><img src=".gitbook/assets/Voting Form.png" alt="" width="188"><figcaption></figcaption></figure>
+
+_All participants who complete both votes will be added to a prize draw._&#x20;
+
+_Prize draw of 4 x £25 for complete votes._
+
+_£50 prize for best critical feedback._
 
 Results will be published [here](results.md) July 28th, 2024
