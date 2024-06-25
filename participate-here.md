@@ -1,6 +1,6 @@
 # Participate HERE
 
-**Click** [**HERE**](https://forms.gle/1o4acq66N8pQAido9) **to participate**&#x20;
+**Click** [**HERE**](https://forms.gle/joYmn3xNE1RuHBTj8) **to participate**&#x20;
 
 _All participants who complete both votes will be added to a prize draw. Prize details are at the bottom of the form._
 
