@@ -19,7 +19,7 @@ layout:
 
 # Quadratic London
 
-Quadratic London is dedicated to implementing and promoting alternative governance and quadratic voting mechanisms. By raising social awareness of the benefits of [quadratic voting](what-is-quadratic-voting/), we aim to enhance decision-making processes and foster more democratic outcomes.&#x20;
+Quadratic London is dedicated to implementing and promoting alternative forms of governance and quadratic voting mechanisms. By raising social awareness of the benefits of [quadratic voting](what-is-quadratic-voting/), we aim to enhance decision-making processes and foster more democratic outcomes.&#x20;
 
 To navigate around the site on mobile devices you can click the icon (top left) to view various sections or scroll to the bottom to head to the next page. Estimated read time is 5-10 mins. If you wish to skip straight into the voting simulation head to the [Participate HERE](participate-here.md) section.
 
