@@ -24,6 +24,6 @@ Although the project had its flaws in terms of messaging and ease of data collec
 
 #### Does prior knowledge and/or belief in alternative governance influence higher participation in voting? <a href="#boxplot-looking-at-people-with-prior-knowledge-of-quadratic-voting-and-the-amount-they-would-vote-pe" id="boxplot-looking-at-people-with-prior-knowledge-of-quadratic-voting-and-the-amount-they-would-vote-pe"></a>
 
-they were 99 eho previosu knew qv etc..
+Out of the 87 participants, 21 had prior knowledge of quadratic voting. Those with prior knowledge
 
 <figure><img src=".gitbook/assets/usethis.png" alt=""><figcaption><p>Participants with prior knowledge of quadratic voting and the amount they would vote per year should they or should not believe in alternative forms of governance</p></figcaption></figure>
