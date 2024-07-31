@@ -22,7 +22,7 @@ Although the project had its flaws in terms of messaging and ease of data collec
 
 Out of the 87 participants, 21 had prior knowledge of quadratic voting. Those with or without prior QV knowledge who answered 'Yes' to believing in alternative forms of governance are willing to vote on average 4 times or more per year. Those that answered 'No' to alternative forms of governance are unlikely to vote more than 2 times per year.
 
-<table><thead><tr><th width="412">Participant believes in alternative Governance</th><th width="85">No</th><th width="88">Maybe</th><th>Yes</th></tr></thead><tbody><tr><td><em><strong>Prior Quadratic Voting knowledge</strong></em> </td><td></td><td></td><td></td></tr><tr><td><em>Yes</em></td><td>0</td><td>4</td><td>17</td></tr><tr><td><em>No</em></td><td>21</td><td>7</td><td>38</td></tr></tbody></table>
+<table><thead><tr><th width="412">Participant believes in alternative Governance</th><th width="85">No</th><th width="88">Maybe</th><th>Yes</th></tr></thead><tbody><tr><td><em><strong>Yes prior Quadratic Voting knowledge</strong></em> </td><td>0</td><td>4</td><td>17</td></tr><tr><td><em><strong>No prior Quadratic Voting knowledge</strong></em> </td><td>21</td><td>7</td><td>38</td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/usethis.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ There is a moderate/positive correlation between political activity and willingn
 
 <figure><img src=".gitbook/assets/Figure_4.png" alt=""><figcaption></figcaption></figure>
 
-Correlation coefficient between political activity and annual votes is 0.6399883782308737.                    -1 being perfect _negative_ correlation and 1 being perfect _positive_ correlation.
+Correlation coefficient between political activity and annual votes is 0.639. -1 being perfect _negative_ correlation and 1 being perfect _positive_ correlation.
 
 
 
@@ -41,8 +41,6 @@ Correlation coefficient between political activity and annual votes is 0.6399883
 <figure><img src=".gitbook/assets/Figure_5.png" alt=""><figcaption></figcaption></figure>
 
 We will see how this result compares to the quadratic voting poll shortly. From the traditional vote we can see how projects faired amongst age categories.
-
-
 
 ### Projects with the most yes and no votes per age category.
 
@@ -67,7 +65,7 @@ _Projects with the most **'No'** votes_.
 
 
 
-## Quadratic voting results
+## Quadratic Voting results
 
 <figure><img src=".gitbook/assets/qvbarh.png" alt=""><figcaption></figcaption></figure>
 
@@ -114,4 +112,60 @@ This issue has a moderate level of support in both methods, but quadratic voting
 * _Traditional Voting:_ Ranked 5th.
 
 The negative votes in quadratic voting highlight a strong opposition or dissatisfaction with community safety and policing approaches, which is not as evident in traditional voting where it ranks moderately.
+
+
+
+
+
+## Data Insights
+
+**Intensity of Preferences:**
+
+Quadratic voting highlights not just what participants prefer but how strongly they feel about these preferences. This is evident in the higher rankings for substance abuse prevention and offender rehabilitation in quadratic voting compared to traditional voting.
+
+**Polarization:**
+
+The negative score for community safety and policing in quadratic voting suggests polarization around this issue. This stark difference from traditional voting results indicates a significant minority with strong negative feelings, which might be masked in traditional voting.
+
+**Allocation of Resources:**
+
+Resources might be better allocated by considering the intensity of preferences shown in quadratic voting. For example, while youth empowerment ranks slightly lower in quadratic voting, the higher votes for substance abuse prevention suggest it should receive more focused resources.&#x20;
+
+
+
+
+
+## Data Collection Shortcomings
+
+**Sample Size and Representation:**
+
+* **Issue:** The sample size of 87 participants is not large enough to generalize the results to the issues surrounding crime in London.
+* **Impact:** This limited sample size may lead to biased results, as it might not accurately represent the diverse perspectives and demographics of the broader community.
+* **Mitigation:** Future projects will aim for a larger and more diverse sample to improve the representativeness of the data.
+
+**Self-Selection Bias:**
+
+* **Issue:** Participation was likely voluntary, leading to self-selection bias where individuals with strong opinions or particular interests may be more inclined to participate.
+* **Impact:** This bias can skew the results, over-representing certain viewpoints and under-representing others.
+* **Mitigation:** Implementing random sampling methods or incentivizing participation from a broader audience can help mitigate this bias.
+
+**Questionnaire Design:**
+
+* **Issue:** The design of the questionnaire and the framing of questions could have influenced participants’ responses.  The&#x20;
+* **Impact:** Leading questions or ambiguous wording can result in response biases, affecting the validity of the data collected.&#x20;
+* **Mitigation:** Conducting pilot tests and seeking feedback on the questionnaire design can help ensure questions are clear, unbiased, and effectively capture the intended information.
+
+**Technical Limitations:**
+
+* **Issue:** Participants faced technical difficulties when accessing the Google form or the web app, leading to incomplete or inaccurate submissions. This was a major issue and proved to be too much work resulting in lower than expected participants.
+* **Impact:** The method to collect data hindered the project quite severely, it was difficult to capture diversity in participants and required far to much time to complete.
+* **Mitigation:** Ensuring robust technical support and user-friendly interfaces can minimize these issues and improve data quality.
+
+
+
+
+
+## Acknowledgment&#x20;
+
+I would like to thank my partner Karina Duarte for hitting the streets and helping me explain the workings of quadratic voting in more succinct ways, teaching myself and others. I would also like to thanks Mwasha Mutale and Cambridge Spark for masterclass in Python data analysis.
 
