@@ -169,5 +169,5 @@ Resources might be better allocated by considering the intensity of preferences 
 
 ## Acknowledgment&#x20;
 
-I would like to thank my partner Karina Duarte for hitting the streets and helping me explain the workings of quadratic voting in more succinct ways, teaching myself and others. I would also like to thanks Mwasha Mutale and Cambridge Spark for masterclass in Python data analysis.
+I would like to thank my partner Karina Duarte for hitting the streets and helping me explain the workings of quadratic voting in more succinct ways, teaching myself and others. I would also like to thanks Mwasha Mutale and Cambridge Spark for the masterclass in Python data analysis.
 
