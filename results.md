@@ -42,6 +42,10 @@ Correlation coefficient between political activity and annual votes is 0.6399883
 
 We will see how this result compares to the quadratic voting poll shortly. From the traditional vote we can see how projects faired amongst age categories.
 
+
+
+### Projects with the most yes and no votes per age category.
+
 _Projects with the most **'Yes'** votes._
 
 <figure><img src=".gitbook/assets/yesvote.png" alt=""><figcaption></figcaption></figure>
@@ -78,15 +82,36 @@ Both voting methods agree on the importance of mental health support, indicating
 
 **Substance Abuse Prevention:**
 
-* Quadratic Voting: Ranked 2nd with 285 votes.
-* Traditional Voting: Ranked 3rd.
+* _Quadratic Voting_: Ranked 2nd with 285 votes.
+* _Traditional Voting_: Ranked 3rd.
 
 Quadratic voting places higher importance on substance abuse prevention compared to traditional voting, suggesting that those who care about it, care deeply.
 
 **Youth Empowerment:**
 
-* Quadratic Voting: Ranked 3rd with 262 votes.
-* Traditional Voting: Ranked 2nd.
+* _Quadratic Voting:_ Ranked 3rd with 262 votes.
+* _Traditional Voting_: Ranked 2nd.
 
 Youth empowerment is highly prioritized in both methods but slightly more in traditional voting. This suggests broad support but possibly less intensity compared to mental health and substance abuse issues.
+
+**Offender Rehabilitation:**
+
+* _Quadratic Voting_**:** Ranked 4th with 207 votes.
+* _Traditional Voting**:**_ Ranked 6th.
+
+Offender rehabilitation is valued more highly in quadratic voting, indicating that while it may not be a top priority for all, those who support it do so strongly.
+
+**Conflict Resolution Education:**
+
+* _Quadratic Voting_: Ranked 5th with 189 votes.
+* _Traditional Voting_: Ranked 4th.
+
+This issue has a moderate level of support in both methods, but quadratic voting shows less intensity of support compared to traditional voting.
+
+**Community Safety and Policing:**
+
+* _Quadratic Voting_: Ranked last with -11 votes.
+* _Traditional Voting:_ Ranked 5th.
+
+The negative votes in quadratic voting highlight a strong opposition or dissatisfaction with community safety and policing approaches, which is not as evident in traditional voting where it ranks moderately.
 
