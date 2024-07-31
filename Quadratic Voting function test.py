@@ -69,4 +69,5 @@ def quadratic_voting_interface():
 
             return results
 
+if __name__ == "__main__":
 quadratic_voting_interface()
