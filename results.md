@@ -1,5 +1,7 @@
 # Results
 
+code can be found here: [https://github.com/acaiuserjuice/quadratic-london-portfolio](https://github.com/acaiuserjuice/quadratic-london-portfolio)
+
 A total of 87 completed polls were submitted for the Quadratic London alternative governance project. There were 74 email respondents, 13 ENS (Ethereum) respondents, 15 polls were incomplete.
 
 A QR code campaign was ran online and flyers we handed out whilst talking to the public around Islington and Hackney, London.
