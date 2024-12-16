@@ -97,7 +97,7 @@ Youth empowerment is highly prioritized in both methods but slightly more in tra
 **Offender Rehabilitation:**
 
 * _Quadratic Voting_**:** Ranked 4th with 207 votes.
-* _Traditional Voting**:**_ Ranked 6th.
+* _Traditional Votin&#x67;**:**_ Ranked 6th.
 
 Offender rehabilitation is valued more highly in quadratic voting, indicating that while it may not be a top priority for all, those who support it do so strongly.
 
@@ -153,7 +153,7 @@ Resources might be better allocated by considering the intensity of preferences 
 
 **Questionnaire Design:**
 
-* **Issue:** The design of the questionnaire and the framing of questions could have influenced participants’ responses.  The&#x20;
+* **Issue:** The design of the questionnaire and the framing of questions could have influenced participants’ responses.&#x20;
 * **Impact:** Leading questions or ambiguous wording can result in response biases, affecting the validity of the data collected.&#x20;
 * **Mitigation:** Conducting pilot tests and seeking feedback on the questionnaire design can help ensure questions are clear, unbiased, and effectively capture the intended information.
 

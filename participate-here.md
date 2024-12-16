@@ -1,8 +1,8 @@
+---
+description: VOTE NOW CLOSED
+---
+
 # Participate HERE
-
-**Click** [**HERE**](https://forms.gle/joYmn3xNE1RuHBTj8) **to participate, or scan the QR code**
-
-<figure><img src=".gitbook/assets/Voting Form.png" alt="" width="188"><figcaption></figcaption></figure>
 
 _All participants who complete both votes will be added to a prize draw._&#x20;
 

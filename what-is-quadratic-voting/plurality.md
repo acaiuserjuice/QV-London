@@ -1,6 +1,6 @@
 # Plurality
 
-Boiled down plurality voting simply means that a candidate/project can win with only a plurality (more votes than any other candidate) rather than a majority. Its often (awkwardly) called "first-past-the-post" (FPTP).
+Boiled down, plurality voting simply means that a candidate/project can win with only a plurality (more votes than any other candidate) rather than a majority. Its often (awkwardly) called "first-past-the-post" (FPTP).
 
 In a hypothetical poll with three projects (A, B, and C) and 100 voters:
 

@@ -13,6 +13,5 @@
 * [Further readings](further-readings/README.md)
   * [References](further-readings/references.md)
 * [Decentralization](decentralization.md)
-* [Your data](your-data.md)
 * [Results](results.md)
 * [Contact](contact.md)
